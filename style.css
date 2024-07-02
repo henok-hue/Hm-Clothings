@@ -1,0 +1,38 @@
+.advert {
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+@keyframes rame{
+  0%{
+    transform: rotate(0deg);  
+    width: 80px;
+    height: 100px;
+  }
+  50% {
+      transform: rotate(-360deg);
+      width: 280px;
+    height: 300px;
+  }
+  100% {
+    transform: rotate(0deg);  
+    width: 80px;
+    height: 100px;
+  }
+  }
+
+
+
+
+
+
+
+
+    
